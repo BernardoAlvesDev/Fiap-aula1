@@ -29,6 +29,7 @@ public class Calculator {
 		System.out.println("A multiplicacao é:" + multiplicacao);
 		System.out.printf("A divisao é: %.2f", divisao);
 		System.out.println("FIM");
+		System.out.println();
 		
 		sc.close();
 	}
